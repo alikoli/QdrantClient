@@ -1,6 +1,7 @@
-# QdrantClient
-Fully functional C# client for Qdrant vector search engine. Check it out @ https://github.com/qdrant/qdrant.
+Hi! I created a first fully functional C# client for [Qdrant](https://github.com/qdrant/qdrant) vector search engine.
 
-TODO:
-Upgrade to newest version of RestSharp
-gRPC support
+## TODO
+
+ - Upgrade to newest version of RestSharp 
+ - Add gRPC support
+ - Unify gRPC and REST usage interface
